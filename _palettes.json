@@ -1,0 +1,28 @@
+{
+    "nextPaletteID": 1,
+    "palettes": {
+        "custom0": {
+            "id": "custom0",
+            "name": "brain",
+            "colors": [
+                "#000000",
+                "#FFFFFF",
+                "#FF2121",
+                "#D97D88",
+                "#FF8135",
+                "#FFF609",
+                "#249CA3",
+                "#78DC52",
+                "#003FAD",
+                "#87F2FF",
+                "#702535",
+                "#8F3548",
+                "#C85E70",
+                "#ED9AA0",
+                "#6B2634",
+                "#000000"
+            ],
+            "custom": true
+        }
+    }
+}
